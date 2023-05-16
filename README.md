@@ -5,7 +5,7 @@
 
 - 👨‍💻 Steam link! [https://steamcommunity.com/id/redzaaao/](https://steamcommunity.com/id/redzaaao/)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
