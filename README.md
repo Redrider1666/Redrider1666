@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Redrider!</h1>
 <h3 align="center">That's good, that's what i want.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redrider1666&label=Profile%20views&color=0e75b6&style=flat" alt="redrider1666" /> </p>
+
 
 - 👨‍💻 Steam link! [https://steamcommunity.com/id/redzaaao/](https://steamcommunity.com/id/redzaaao/)
 
