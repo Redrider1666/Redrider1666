@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- 👨‍💻 Steam link! [https://steamcommunity.com/id/redzaaao/](https://steamcommunity.com/id/redzaaao/)
+- 👨‍💻 Steam link! [https://steamcommunity.com/id/redzaaao/]
 <p align="left">
 </p>
 
