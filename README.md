@@ -15,6 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redrider1666&show_icons=true&locale=en" alt="redrider1666" /></p>
 
+```html
 <script src="https://tryhackme.com/badge/2831777"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redrider1666&label=Profile%20views&color=FF0000&style=flat" alt="redrider1666" /> </p>
