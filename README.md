@@ -17,7 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redrider1666&label=Profile%20views&color=FF0000&style=flat" alt="redrider1666" /> </p>
 
-```html
-<script src="https://tryhackme.com/badge/2831777"></script>
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Redrider.png)
 
 
